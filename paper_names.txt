@@ -1,0 +1,16 @@
+Gerber T, Willscher E, Loeffler-Wirth H, Hopp L et al.
+ Mapping heterogeneity in patient-derived melanoma cultures by single-cell RNA-seq.
+ Oncotarget 2017 
+ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE81383
+
+    
+Gokce O, Stanley GM, Treutlein B, Neff NF et al. 
+ Cellular Taxonomy of the Mouse Striatum as Revealed by Single-Cell RNA-Seq.
+ Cell Rep 2016 Jul 26;16(4):1126-37. 
+ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE82187
+
+
+Li S, Garrett-Bakelman FE, Chung SS, Sanders MA et al.
+ Distinct evolution and dynamics of epigenetic and genetic heterogeneity in acute myeloid leukemia.
+ Nat Med 2016 Jul;22(7):792-9. 
+ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE83533
